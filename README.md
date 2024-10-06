@@ -24,8 +24,8 @@ This React application allows users to maintain a list of items, starting with t
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/BhoomiGohil/Scrimba-React-useState-Map2.git
+cd Scrimba-React-useState-Map2
 ```
 
 2. Install dependencies:
